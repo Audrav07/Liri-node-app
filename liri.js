@@ -18,12 +18,12 @@ var request = require('request');
 //read the random.txt file
 
 var fs = require('fs');
-// var file = require('file-system');
 
-//output for logs
+
+
 var filename = './log.txt';
 
-//command requested
+
 var command = process.argv[2];
 
 //optional argument for requested info
