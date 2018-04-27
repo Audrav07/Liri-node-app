@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Audrav07/Liri-node-app#readme",
   "dependencies": {
     "file-system": "^2.2.2",
+    "hoek": "^5.0.3",
     "node-spotify-api": "^1.0.7",
     "npm": "^6.0.0",
     "omdb": "^0.8.0",

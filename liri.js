@@ -26,7 +26,6 @@ var filename = './log.txt';
 
 var command = process.argv[2];
 
-//optional argument for requested info
 var argument = "";
 
 //controller function determines which command is taken
